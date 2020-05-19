@@ -12,3 +12,8 @@ img {
     transform: rotate(90deg);
     padding: 40px 0;
 }
+
+.yentl {
+    height: 50vh;;
+    background-image: url('yentl.jpg');
+}
